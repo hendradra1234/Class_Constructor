@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08758346-1ccf-4e6a-bce5-cafeeff8d9b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_Constructor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pertemuan11/Mahasiswa.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pertemuan12/MahasiswaGetterMethod.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pertemuan12/MahasiswaGetterSetterMethod.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pertemuan12/MahasiswaMethodWithParam.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pertemuan12/MahasiswaMethodWithoutParam.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pertemuan12/MahasiswaSetterMethod.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pertemuan12/MahasiswaStaticMethod.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pertemuan12/MahasiswaStaticProperty.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pertemuan11/ConstructorImplementation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pertemuan12/ClassImplementation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +23,7 @@
       <list>
         <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -101,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728707812072</updated>
-      <workItem from="1728707813089" duration="6560000" />
+      <workItem from="1728707813089" duration="7762000" />
     </task>
     <servers />
   </component>
